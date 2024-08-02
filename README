@@ -1,0 +1,8 @@
+How to compile nsign tool:
+For Linux:
+1. Execute the script build.sh, executable file nsign will be generated in the current directory.
+For Windows:
+1. Ensure that Cmake and mingw have been installed.
+2. Copy the file src/libcrypto-1_1-x64.dll to the windows/System32 directory
+3. Set the CMAKE_C_ compiler and CMAKE_CXX_ compiler to the correct paths in CMakeLists.txt.
+4. Execute the script build_mingw.bat, executable file nsign.ext will be generated in the current directory.
