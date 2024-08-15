@@ -1,6 +1,6 @@
-// SPDX-License-Identifier: Apache-2.0
+// SPDX-License-Identifier: GPL-2.0
 /*
- * config file for nsig
+ * config file for nsign
  *
  * Copyright 2024 Beijing ESWIN Computing Technology Co., Ltd.
  *   Authors:
